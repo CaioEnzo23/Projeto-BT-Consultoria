@@ -19,7 +19,15 @@ O projeto foi concebido para atender às seguintes necessidades estratégicas:
 
 Para o desenvolvimento deste projeto, foi adotado o framework **CRISP-DM (Cross Industry Standard Process for Data Mining)**, que estrutura o processo de mineração de dados em seis fases principais.
 
-![CRISP-DM Cycle](https://github.com/gemini/images/blob/main/crisp-dm-cycle.png)
+<img width="2001" height="1100" alt="Image" src="https://github.com/user-attachments/assets/fb6dd3f4-d0a2-4e47-b363-2002bb83ea99" />
+
+<img width="1968" height="1102" alt="Image" src="https://github.com/user-attachments/assets/27b44c10-fb11-4364-bb62-4b6f9a49bb18" />
+
+<img width="1968" height="1104" alt="Image" src="https://github.com/user-attachments/assets/1b744599-c111-4aca-8e48-7698dee8c840" />
+
+<img width="1966" height="1100" alt="Image" src="https://github.com/user-attachments/assets/9f9a06f6-3750-4f7f-b274-c216ed973c88" />
+
+<img width="1970" height="1103" alt="Image" src="https://github.com/user-attachments/assets/26cdeb35-f3a8-428d-ba60-aa632d019f21" />
 
 1.  **Business Understanding:** Fase inicial focada em compreender os objetivos e necessidades da CBS Dance Factory, definindo o problema a ser resolvido e os critérios de sucesso do projeto.
 2.  **Data Understanding:** Envolveu a coleta dos dados iniciais e um processo de exploração para familiarização, identificação de problemas de qualidade e descoberta de primeiros insights.
